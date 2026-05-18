@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "TP4056")(type "KiCad")(uri "H:/Downloads/TP4056-18650-master/TP4056-18650-master")(options "")(descr ""))
+  (lib (name "inmp441")(type "KiCad")(uri "H:/Downloads/inmp441-breakout-kicad-main/inmp441-breakout-kicad-main/inmp441.pretty")(options "")(descr ""))
+  (lib (name "open-automation")(type "KiCad")(uri "H:/Downloads/kicad-parts-master/kicad-parts-master/open-automation.pretty")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "H:/Downloads/Library.pretty")(options "")(descr ""))
+)
