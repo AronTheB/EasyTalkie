@@ -8,6 +8,8 @@ Made for [fallout.hackclub.com](https://fallout.hackclub.com/)
 
 I made this project, beaceuse my mom always have to yell at me to hear that she is calling me. So i made this walkie talkie so we can communicate easier in the house.
 
+After turning on the ESP-32's will find eachother if near and than use the button to trasmit audio between the walkie-talkies.
+
 ## KiCad
 
 ### Schematic
