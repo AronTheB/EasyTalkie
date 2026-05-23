@@ -1,4 +1,4 @@
-# A ESP32 Based walkie talkie
+# A ESP32/ESPNOW based walkie talkie
 
 ## Description
 
