@@ -84,7 +84,7 @@
 	(net 4 "3V")
 	(net 5 "GPI04")
 	(net 6 "Net-(U3-OUTP)")
-	(net 7 "GPI07")
+	(net 7 "GPI043")
 	(net 8 "Net-(U3-OUTN)")
 	(net 9 "GPI05")
 	(net 10 "GPI06")
@@ -113,7 +113,7 @@
 			)
 		)
 		(property "Value" "INMP441"
-			(at 5.7 0 0)
+			(at 0 8.44 0)
 			(layer "F.Fab")
 			(uuid "f61e6082-e295-4e07-81a3-f55396b58f5f")
 			(effects
@@ -548,7 +548,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "SSD1306"
 			(at -7.747 -7.62 0)
 			(layer "F.Fab")
 			(uuid "c659f404-119a-474a-9f5f-b0476cc26d35")
@@ -842,7 +842,7 @@
 				)
 			)
 		)
-		(property "Value" "ON/OFF"
+		(property "Value" "~"
 			(at 0.00762 -2.75082 90)
 			(layer "F.SilkS")
 			(uuid "2a7674c3-68e5-4837-87ba-0c062abff376")
@@ -1357,7 +1357,7 @@
 			(drill 0.889)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 7 "GPI07")
+			(net 7 "GPI043")
 			(pinfunction "GPIO43_D6_TX")
 			(pintype "passive")
 			(uuid "6b28d33b-4200-4e83-9cc3-6e2c7299b564")
@@ -1367,7 +1367,7 @@
 			(size 2.432 1.524)
 			(layers "B.Cu" "B.Mask")
 			(roundrect_rratio 0.1)
-			(net 7 "GPI07")
+			(net 7 "GPI043")
 			(pinfunction "GPIO43_D6_TX")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
@@ -1879,7 +1879,7 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 7 "GPI07")
+			(net 7 "GPI043")
 			(pinfunction "DIN")
 			(pintype "input")
 			(solder_mask_margin 0.0508)
@@ -2128,6 +2128,67 @@
 				(thickness 0.1)
 			)
 			(justify left bottom)
+		)
+	)
+	(gr_text "EASYTALKIE"
+		(at 189.25 104 0)
+		(layer "F.SilkS")
+		(uuid "b06159ec-be4c-49ad-9c4e-592cc5b5e057")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.375)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "INMP441"
+		(at 197.75 78.75 0)
+		(layer "F.SilkS")
+		(uuid "c38d88ab-9801-4dca-8b55-016803d8d7e3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "OFF/ON"
+		(at 195 97.75 90)
+		(layer "F.SilkS")
+		(uuid "d62d7095-f3ee-4e49-858a-a23c20272552")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "ESP32 S3 Here"
+		(at 204.25 38.5 -0)
+		(layer "B.SilkS")
+		(uuid "067351d0-771b-4671-9555-56736bd5cb64")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "AMP HERE"
+		(at 234.5 43.25 270)
+		(layer "B.SilkS")
+		(uuid "5fa55f09-94a0-41d8-94fd-4c855571f734")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
 		)
 	)
 	(segment
