@@ -1,3 +1,5 @@
+<img width="1500" height="2300" alt="EasyTalkie" src="https://github.com/user-attachments/assets/1c430fa0-9a65-4b68-8a5b-504f0c4c2dba" />
+
 # A ESP32/ESPNOW based walkie talkie
 
 ## Description
