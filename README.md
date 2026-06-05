@@ -10,6 +10,8 @@ I made this project, beaceuse my mom always have to yell at me to hear that she 
 
 After turning on the ESP-32's will find eachother if near and than use the button to trasmit audio between the walkie-talkies.
 
+You can replicate this project at home pretty easily. Clone this repo and download all the neccesary files such as the gerber.zip for pcb .stp files for the 3d models to print and also use the BOM to find all the parts needed for the project. After everything arrives solder it like in the schematic. After flash the ESP32 with the firmware and after a reboot it should start working.
+
 ## KiCad
 
 ### Schematic
