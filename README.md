@@ -10,9 +10,9 @@ Made for [fallout.hackclub.com](https://fallout.hackclub.com/)
 
 I made this project, beaceuse my mom always have to yell at me to hear that she is calling me. So i made this walkie talkie so we can communicate easier in the house.
 
-After turning on the ESP-32's will find eachother if near and than use the button to trasmit audio between the walkie-talkies.
-
 You can replicate this project at home pretty easily. Clone this repo and download all the neccesary files such as the gerber.zip for pcb .stp files for the 3d models to print and also use the BOM to find all the parts needed for the project. After everything arrives solder it like in the schematic. After flash the ESP32 with the firmware and after a reboot it should start working.
+
+After turning on the ESP-32's will find eachother if near and than use the button to trasmit audio between the walkie-talkies.
 
 ## KiCad
 
@@ -26,7 +26,9 @@ You can replicate this project at home pretty easily. Clone this repo and downlo
 
 ## Fusion 360
 
-<img width="453" height="544" alt="image" src="https://github.com/user-attachments/assets/519d3082-4eaf-4749-ae54-ebbeeebc65e4" />
+<img width="453" height="708" alt="image" src="https://github.com/user-attachments/assets/95f2a72b-dd72-468f-8881-41cac1e44214" />
+
+
 
 ## Preview
 
