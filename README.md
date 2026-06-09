@@ -8,13 +8,16 @@ This is a easy to build/use Walkie-Talkie, that work via the ESPNOW system. The 
 
 Made for [fallout.hackclub.com](https://fallout.hackclub.com/)
 
-WHY I MADE THIS:
+### WHY I MADE THIS:
+
 I made this project, beaceuse my mom always have to yell at me to hear that she is calling me. So i made this walkie talkie so we can communicate easier in the house.
 
-HOW TO BUILD:
+### HOW TO BUILD:
+
 You can replicate this project at home pretty easily. Clone this repo and download all the neccesary files such as the gerber.zip for pcb .stp files for the 3d models to print and also use the BOM to find all the parts needed for the project. After everything arrives solder it like in the schematic. After flash the ESP32 with the firmware and after a reboot it should start working.
 
-HOW TO USE/FEATURES:
+### HOW TO USE/FEATURES:
+
 After turning on the ESP-32's will find eachother if near and than use the button to trasmit audio between the walkie-talkies. the main feature is the communication, if u press the button you start speaking while holding the button down, it will start transmitting audio and if you are not holding the key down, you can receive audio.
 
 ## KiCad
