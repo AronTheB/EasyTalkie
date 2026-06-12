@@ -10,7 +10,7 @@ Made for [fallout.hackclub.com](https://fallout.hackclub.com/)
 
 ### WHY I MADE THIS:
 
-I made this project, beaceuse my mom always have to yell at me to hear that she is calling me. So i made this walkie talkie so we can communicate easier in the house.
+I made this project, beaceuse my mom always have to yell at me to hear that she is calling me. So i made this walkie talkie so we can communicate easier in the house. I think also anyone could use this for easy communication and also at event like fallout where there are hunderds of kids, and you need to quickly communicate something to your partner.
 
 ### HOW TO BUILD:
 
