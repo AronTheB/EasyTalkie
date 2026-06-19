@@ -2208,28 +2208,6 @@
 			)
 		)
 	)
-	(global_label "BAT-"
-		(shape input)
-		(at 76.2 59.69 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "212be222-7863-439b-81b7-0c2e70a8f46f")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 76.2 67.5738 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "GPI03"
 		(shape input)
 		(at 50.8 39.37 180)
@@ -2276,7 +2254,7 @@
 	)
 	(global_label "LIPO BATTERY+"
 		(shape input)
-		(at 93.98 99.06 180)
+		(at 93.98 96.52 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2286,7 +2264,7 @@
 		)
 		(uuid "3f2323c3-06d2-4f64-a06a-930273416da4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 76.42 99.06 0)
+			(at 76.42 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2584,7 +2562,7 @@
 	)
 	(global_label "BAT+"
 		(shape input)
-		(at 93.98 96.52 180)
+		(at 93.98 99.06 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2594,7 +2572,7 @@
 		)
 		(uuid "bf981c9f-e9f5-43b3-aded-b8ffe95a316e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 86.0962 96.52 0)
+			(at 86.0962 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
