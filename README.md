@@ -24,7 +24,7 @@ After turning on the ESP-32's will find eachother if near and than use the butto
 
 ### Schematic
 
-<img width="514" height="750" alt="image" src="https://github.com/user-attachments/assets/04eab657-355e-458c-9af1-dda1ef9a779b" />
+<img width="549" height="852" alt="image" src="https://github.com/user-attachments/assets/3269845a-ba4d-45a1-9a14-d0a0b7b6aff5" />
 
 ### PCB
 
