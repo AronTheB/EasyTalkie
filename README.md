@@ -14,7 +14,7 @@ I made this project, beaceuse my mom always have to yell at me to hear that she 
 
 ### HOW TO BUILD:
 
-You can replicate this project at home pretty easily. Clone this repo and download all the neccesary files such as the gerber.zip for pcb .stp files for the 3d models to print and also use the BOM to find all the parts needed for the project. After everything arrives solder it like in the schematic. (The battery has to be manually wired as shown in the schematic), put the pcb in the case, it should fit like a glove. connect it to a computer via a cable and flash the ESP32 with the firmware and after a reboot it should start working.
+You can replicate this project at home pretty easily. Clone this repo and download all the neccesary files such as the gerber.zip for pcb .stp files for the 3d models to print and also use the BOM to find all the parts needed for the project. After everything arrives solder it like in the schematic. (The battery has to be manually wired as shown in the schematic, the gnd of the battery should be connected to the gnd pin on the xiao via wires), put the pcb in the case, it should fit like a glove. connect it to a computer via a cable and flash the ESP32 with the firmware and after a reboot it should start working.
 
 ### HOW TO USE/FEATURES:
 
